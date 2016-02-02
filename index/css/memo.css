@@ -1,4 +1,4 @@
-.rnav { width: 120px; margin: 20px auto; overflow: hidden;margin-left:50px;margin-top:280px}
+Ôªø.rnav { width: 120px; margin: 20px auto; overflow: hidden;margin-left:50px;margin-top:280px}
 .rnav li { width: 120px; text-align: center; display: inline-block; margin-bottom: 2px; height: 40px; line-height: 40px }
 .rnav li a { color: #FFF; display: block; -webkit-transition: all 1s; -moz-transition: all 1s; -o-transition: all 1s; transition: all 1s }
 .rnav1 { background: #e41637 }
@@ -8,7 +8,7 @@
 .rnav li a:hover { background: rgba(255,255,255,0.2); -webkit-transform: rotate(360deg); -moz-transform: rotate(360deg); -o-transform: rotate(360deg); transform: rotate(360deg); }
 .memorial_day { width: 1000px; margin: auto; overflow: hidden; position: relative; padding: 60px; background: url(../images/day.png) no-repeat 400px 30px }
 .time_axis { background: #ff0080; height: 6px; width: 100%; animation: time_a 5s; -moz-animation: time_a 5s; /* Firefox */ -webkit-animation: time_a 5s; /* Safari and Chrome */ -o-animation: time_a 5s; /* Opera */ }
-/* ±º‰÷·∂Øª≠–ßπ˚*/
+/*Êó∂Èó¥ËΩ¥Âä®ÁîªÊïàÊûú*/
 @keyframes time_a { 0% {
 width:0px;
 }
@@ -62,7 +62,7 @@ width:1000px;
 }
 }
 .dateview { position: absolute; top: -50px; left: 20px; display: block; width: 88px; background: url(../images/dtime.png) no-repeat; color: #fff; height: 46px; line-height: 30px; text-align: center }
-.memorial_day ul li a { margin-top: 30px; display: block;font-family:ª™Œƒ––ø¨;font-size:20px;color:#da50ad }
+.memorial_day ul li a { margin-top: 30px; display: block;font-family:ÂçéÊñáË°åÊ•∑;font-size:20px;color:#da50ad }
 .memorial_day ul li a:hover { text-decoration: underline }
 .memorial_day ul li::before { content: ""; width: 14px; height: 14px; border-radius: 50%; position: absolute; background: #f8e0d3; border: 3px solid #ff80c0; }
 .memorial_day ul li:hover::before { background: #ff80c0; border-color: #ff80c0; }
